@@ -1,5 +1,5 @@
 # Garment-Workers-and-Productivity
-Statistical Learning team project. Predicting the actual productivity of garment workers. 
+Statistical Learning team project. Predicting the actual productivity of garment workers with R. 
 
 The dataset includes important attributes of the garment manufacturing process and the productivity of the employees which had been collected manually and also been validated by the industry experts. Data have been collected across different days along the year, and each row (instance) contains different characteristics of a specific worker team devoted at performing a specific task.
 
